@@ -1,4 +1,20 @@
-.logo img {
-width: 100px;
+.bg-white {
+  background-color: white;
+}
 
+.bg-blue {
+  background-color: #5A80C6;
+}
+
+.logo img {
+  width: 120px;
+}
+
+.carousel-caption {
+  background-color: #5A80C6;
+  margin: 0 150px;
+}
+
+.link {
+  text-decoration: none;
 }
